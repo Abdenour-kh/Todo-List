@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  height: 100vh;
+  color: aliceblue;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  margin: 3em;
+  transition: all ease-in-out 0.4s;
+}
+.animated {
+  background: lightcoral;
+  transform: scale(1.3);
+}
